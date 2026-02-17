@@ -1,19 +1,21 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:1F6FEB&height=180&section=header&text=Iury%20Henrique&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20n8n%20%7C%20SaaS%20%7C%20IA&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1220,100:1F6FEB&text=Iury%20Henrique&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20n8n%20%7C%20SaaS%20%7C%20IA&descAlignY=57" />
 </p>
 
-<h3 align="center">Construindo soluções web que simplificam operações e escalam negócios.</h3>
+<h3 align="center">Transformando processos em produtos web rápidos, escaláveis e fáceis de usar.</h3>
 
 <p align="center">
-  <a href="https://iuxyog.github.io/iury-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://iuxyog.github.io/iury-portfolio/">
+    <img src="https://img.shields.io/badge/Portfólio-0B1220?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://iuxyog.github.io/xy-tools/" target="_blank">
+  <a href="https://iuxyog.github.io/xy-tools/">
     <img src="https://img.shields.io/badge/XY%20Tools-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.valueaistudio.com/assinar" target="_blank">
+  <a href="https://www.valueaistudio.com/assinar">
     <img src="https://img.shields.io/badge/Value%20AI-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/iuxyog/">
+    <img src="https://img.shields.io/badge/LinkedIn-iuxyog-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -21,11 +23,11 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack com foco em sistemas web, automações com n8n e estruturação de SaaS.  
-Atuo transformando gargalos operacionais em soluções técnicas objetivas, escaláveis e orientadas a resultado.
+Desenvolvedor Full Stack com foco em sistemas web, automações e estruturação de SaaS.  
+Atuo transformando gargalos operacionais em soluções técnicas objetivas, com foco em performance, organização e resultado real.
 
 - Nova Serrana - MG, Brasil
-- Foco: Full Stack, APIs REST, n8n, IA aplicada, produtos SaaS
+- Foco atual: Full Stack, APIs REST, n8n, IA aplicada e SaaS
 - Base prática: TI, suporte técnico e administração de servidores
 
 ---
@@ -50,45 +52,32 @@ Atuo transformando gargalos operacionais em soluções técnicas objetivas, esca
 ## Projetos em destaque
 
 ### XY Tools - Etiquetas Shopee
-Ferramenta em produção para recorte automático de etiquetas e aceleração de operação logística.
+Ferramenta em produção para recorte automático de etiquetas e aceleração da operação logística.
 
-- Organização de pedidos
-- Geração de etiquetas padronizadas
-- Redução de erros operacionais
+- Organização de pedidos  
+- Geração de etiquetas padronizadas  
+- Redução de erros operacionais  
 
-Acessar: https://iuxyog.github.io/xy-tools/
+🔗 https://iuxyog.github.io/xy-tools/
 
 ### Plataforma SaaS com IA para Marketplace
-Plataforma para geração de anúncios com IA, pesquisa de mercado e estrutura de escala.
+Plataforma para geração de anúncios com IA, análise de mercado e estrutura escalável.
 
-- Geração de títulos e descrições com IA
-- Análise de concorrência
-- Organização por workspace
-- Sistema de planos e créditos
+- Geração de títulos e descrições com IA  
+- Pesquisa e análise de concorrência  
+- Organização por workspace  
+- Sistema de planos e créditos  
 
-Acessar: https://www.valueaistudio.com/assinar
+🔗 https://www.valueaistudio.com/assinar
 
 ---
 
 ## Experiência prática
 
 - Suporte Técnico em TI
-- Administração de Servidores (FiveM / GTA RP)
+- Administração de servidores (FiveM / GTA RP)
 - Operação de marketplace e logística
-- Desenvolvimento de ferramentas internas e automações com n8n
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iuxyOG&show_icons=true&hide_border=true&title_color=1f6feb&icon_color=1f6feb&text_color=334155&bg_color=ffffff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuxyOG&layout=compact&hide_border=true&title_color=1f6feb&text_color=334155&bg_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iuxyOG&hide_border=true&background=FFFFFF&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&dates=475569" />
-</p>
+- Ferramentas internas e automações com n8n
 
 ---
 
