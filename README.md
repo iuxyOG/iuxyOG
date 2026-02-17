@@ -21,8 +21,9 @@ Desenvolvo soluções que impactam diretamente os resultados da operação, unin
 
 ---
 
-### Contribuições
+### GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iuxyOG&hide_border=true&background=FFFFFF&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideNums=0F172A&currStreakNum=0F172A&sideLabels=334155&dates=64748B" />
+  <img height="160" src="https://streak-stats.demolab.com?user=iuxyOG&hide_border=true&background=FFFFFF&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideNums=0F172A&currStreakNum=0F172A&sideLabels=334155&dates=64748B" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuxyOG&layout=compact&hide_border=true&title_color=1F6FEB&text_color=334155&bg_color=FFFFFF" />
 </p>
