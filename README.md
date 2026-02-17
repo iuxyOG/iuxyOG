@@ -1,28 +1,28 @@
-<!-- README de perfil: iuxyOG/iuxyOG -->
+<!-- README completo para iuxyOG/iuxyOG -->
 
-<!-- Banner animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:1f6feb&height=180&section=header&text=Iury%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20n8n%20%7C%20SaaS%20%7C%20IA&descAlignY=62&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:1F6FEB&height=180&section=header&text=Iury%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20n8n%20%7C%20SaaS%20%7C%20IA&descAlignY=62&descSize=20" />
 </p>
 
-<!-- Frase animada -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=900&color=1F6FEB&center=true&vCenter=true&width=900&lines=Desenvolvendo+solu%C3%A7%C3%B5es+que+geram+resultado+real;Sistemas+web%2C+automa%C3%A7%C3%B5es+e+IA+aplicada;Foco+em+performance%2C+opera%C3%A7%C3%A3o+e+escala" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2500&pause=900&color=1F6FEB&center=true&vCenter=true&width=900&lines=Sistemas+web%2C+automa%C3%A7%C3%B5es+e+IA+aplicada;Foco+em+opera%C3%A7%C3%A3o%2C+performance+e+escala;Construindo+produtos+que+geram+resultado+real" />
 </p>
 
-<!-- Links principais -->
 <p align="center">
   <a href="https://iuxyog.github.io/iury-portfolio/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0B1220?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfólio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
   </a>
   <a href="https://iuxyog.github.io/xy-tools/">
-    <img src="https://img.shields.io/badge/XY%20Tools-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/XY%20Tools-0F172A?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" />
   </a>
   <a href="https://www.valueaistudio.com/assinar">
-    <img src="https://img.shields.io/badge/Value%20AI-111827?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Value%20AI-0F172A?style=for-the-badge&logo=openai&logoColor=93C5FD" />
   </a>
   <a href="https://www.linkedin.com/in/iuxyog/">
-    <img src="https://img.shields.io/badge/LinkedIn-iuxyog-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://github.com/iuxyOG">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
 </p>
 
@@ -59,7 +59,7 @@ Ferramenta em produção para recorte automático de etiquetas e aceleração de
 - Geração de etiquetas padronizadas
 - Redução de erros operacionais
 
-Acessar: https://iuxyog.github.io/xy-tools/
+🔗 https://iuxyog.github.io/xy-tools/
 
 ### Plataforma SaaS com IA para Marketplace
 Plataforma para geração de anúncios com IA e estrutura pronta para escala.
@@ -69,7 +69,7 @@ Plataforma para geração de anúncios com IA e estrutura pronta para escala.
 - Organização por workspace
 - Sistema de planos e créditos
 
-Acessar: https://www.valueaistudio.com/assinar
+🔗 https://www.valueaistudio.com/assinar
 
 ---
 
